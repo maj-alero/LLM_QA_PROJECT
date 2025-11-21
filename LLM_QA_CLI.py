@@ -10,7 +10,7 @@ def display_banner() -> None:
     print("Type 'quit' or 'exit' to close the application.")
     print("=" * 72)
 
-
+#RUN CLI
 def run_cli() -> None:
     display_banner()
 
