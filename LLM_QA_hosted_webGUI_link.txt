@@ -1,6 +1,6 @@
 Name: OGBE AMAJU ALERO
 Matric Number:22CG031903
-Hosted Web GUI URL: 
+Hosted Web GUI URL: https://llm-qa-project-ogbe.onrender.com
 GitHub Repository URL:https://github.com/maj-alero/LLM_QA_PROJECT
 
 
